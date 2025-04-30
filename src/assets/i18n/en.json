@@ -1,0 +1,124 @@
+{
+  "Header.Item1": "About Me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Projects",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "Resume",
+  "Header.cvName": "EmanElsayedCV.pdf",
+
+  "Banner.Pretitle": "Hello! My name is",
+  "Banner.Description": "I'm <span class='underline'> Full-Stack Developer</span> skilled in .NET Core, CSharp, Angular, and SQL. Experienced in building responsive web applications, integrating frontend and backend technologies, and following Agile methodologies. Passionate about problem-solving and continuous learning",
+  "Banner.ActionBtn": "Contact Me",
+
+  "AboutMe.Title": "About Me",
+  "AboutMe.Paragraphs": [
+    "I graduated with Honors and Excellent grades in Computer Science, having completed intensive Full Stack .NET & Angular training at the Information Technology Institute (ITI). This combination of academic excellence and practical training has given me a robust foundation in full-stack application development.",
+
+    "I have successfully delivered multiple projects using .NET and Angular frameworks, demonstrating my ability to transform conceptual ideas into functional, production-ready applications. My approach blends technical expertise with creative problem-solving to build effective digital solutions."
+  ],
+
+  "FeatureProjects.Title": "My Projects",
+  "FeatureProjects.Label": "Highlighted Project",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "Airbnb",
+      "Description": "This project is a full-stack web application that replicates core features of Airbnb for both Hosts and Guests. Users can register, log in, list properties, and make bookings through an interactive and secure platform. The system includes advanced search, filtering, and a calendar to view available dates. Role-based functionality ensures a tailored experience for each user type. The project simulates real-world business logic with a focus on user experience and security.",
+      "imgs": [
+        "assets/images/Airbnb/Capture.JPG",
+
+        "assets/images/Airbnb/Capture2.JPG",
+        "assets/images/Airbnb/Capture3.JPG",
+        "assets/images/Airbnb/Capture4.JPG",
+        "assets/images/Airbnb/Capture5.JPG",
+        "assets/images/Airbnb/Capture6.JPG",
+        "assets/images/Airbnb/Capture7.JPG",
+        "assets/images/Airbnb/Capture8.JPG",
+        "assets/images/Airbnb/Capture9.JPG",
+        "assets/images/Airbnb/Capture10.JPG",
+        "assets/images/Airbnb/Capture11.JPG",
+        "assets/images/Airbnb/Capture12.JPG",
+        "assets/images/Airbnb/Capture13.JPG",
+        "assets/images/Airbnb/Capture14.JPG",
+        "assets/images/Airbnb/Capture15.JPG",
+        "assets/images/Airbnb/Capture16.JPG",
+        "assets/images/Airbnb/Capture17.JPG",
+        "assets/images/Airbnb/Capture18.JPG",
+        "assets/images/Airbnb/Capture19.JPG"
+      ],
+      "Technologies": [
+        "Angular",
+        "RxJS",
+        "Bootstrap",
+        "Css",
+        "TypeScript",
+        "ASP.Net Web Api",
+        "Entity Framework Core",
+        "SQL Server"
+      ],
+      "ghLink": "https://airbnb-clone-gj61-git-main-emanelsayed2002s-projects.vercel.app/"
+    },
+
+    {
+      "Title": "Social Media App",
+      "Description": "A responsive social media platform built with <span class='underline'>Angular</span> and styled with <span class='underline'>Bootstrap</span> and custom <span class='underline'>CSS</span>. The app features a mock backend powered by <span class='underline'>JSON Server</span>, simulating RESTful API endpoints for seamless frontend development. Key functionalities include user authentication, post creation with images, real-time likes/comments, and profile management. The clean UI leverages Bootstrap's grid system and components while custom CSS ensures unique styling.",
+      "imgs": [
+        "assets/images/SocialMedia/Capture.JPG",
+        "assets/images/SocialMedia/Capture1.JPG",
+        "assets/images/SocialMedia/Capture3.JPG",
+        "assets/images/SocialMedia/Capture4.JPG",
+        "assets/images/SocialMedia/Capture5.JPG",
+        "assets/images/SocialMedia/Capture6.JPG",
+        "assets/images/SocialMedia/Capture7.JPG",
+        "assets/images/SocialMedia/Capture8.JPG",
+        "assets/images/SocialMedia/Capture9.JPG",
+        "assets/images/SocialMedia/Capture10.JPG"
+      ],
+      "Technologies": [
+        "Angular",
+        "Json Server",
+        "RxJS",
+        "Bootstrap",
+        "Css",
+        "TypeScript"
+      ],
+      "ghLink": "https://github.com/EmanElsayed2002/Social-Media-App"
+    },
+    {
+      "Title": "ITI Examination System Database",
+      "Description": "The ITI Examination System is a comprehensive database designed to manage exams, questions, student data, and instructor information. This system helps organize and streamline examination processes, including student-course enrollments, exam questions, and score tracking.",
+      "imgs": [
+        "assets/images/WindowsForms/Capture.JPG",
+        "assets/images/WindowsForms/Capture1.JPG",
+        "assets/images/WindowsForms/Capture2.JPG",
+        "assets/images/WindowsForms/Capture3.JPG",
+        "assets/images/WindowsForms/Capture4.JPG",
+        "assets/images/WindowsForms/Capture5.JPG",
+        "assets/images/WindowsForms/Capture6.JPG",
+        "assets/images/WindowsForms/Capture7.JPG",
+        "assets/images/WindowsForms/Capture8.JPG",
+        "assets/images/WindowsForms/Capture9.JPG",
+        "assets/images/WindowsForms/Capture10.JPG",
+        "assets/images/WindowsForms/Capture11.JPG",
+        "assets/images/WindowsForms/Capture12.JPG"
+      ],
+      "Technologies": ["Database (SQL Server)", "ADO.net", "Windows Forms"],
+      "ghLink": "https://github.com/EmanElsayed2002/ITI-Examination-System-using-Window-Form"
+    },
+    {
+      "Title": "𝐄𝐱𝐚𝐦𝐢𝐧𝐚𝐭𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞",
+      "Description": "create a database system that manages the examination process efficiently. The project focused on:Student and course management, Exam and result processing, 50+ Stored Procedures for database operations",
+      "imgs": [
+        "assets/images/Database/Capture1.jpg",
+        "assets/images/Database/Capture2.jpg",
+        "assets/images/Database/Capture3.JPG"
+      ],
+      "Technologies": ["Database (SQL Server)"],
+      "ghLink": "https://github.com/EmanElsayed2002/Database-Project"
+    }
+  ],
+
+  "Contact.Pretitle": "What's Next?",
+  "Contact.Title": "Let's Connect!",
+  "Contact.Content": "I'd love to hear from you — whether you have a question, a new opportunity, or just want to say hello. Feel free to reach out, and I'll get back to you as soon as I can.",
+  "Contact.Btn": "Get in Touch"
+}

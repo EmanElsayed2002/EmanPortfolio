@@ -47,13 +47,10 @@
       ],
       "Technologies": [
         "Angular",
-        "RxJS",
         "Bootstrap",
-        "Css",
         "TypeScript",
         "ASP.Net Web Api",
-        "Entity Framework Core",
-        "SQL Server"
+        "Entity Framework Core"
       ],
       "ghLink": "https://airbnb-clone-gj61-git-main-emanelsayed2002s-projects.vercel.app/"
     },
